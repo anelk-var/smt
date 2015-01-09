@@ -1,0 +1,14 @@
+3rd years:
+Groups so far.
+1. Gourav (sentiment analysis with dist. rep.)
+2. Sonali+Rohit (review categorization content retrieval)
+3. Aditya (information outbreak in networks)
+4. Sarthak (time series prediction and forecasting)
+
+2nd years:
+Data analysis people
+Web design and application people
+
+Computerization project:
+Get code (feedback+blog/movie review)-
+Mailman-
