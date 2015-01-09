@@ -1,13 +1,57 @@
 3rd years:
+
 Groups so far.
 1. Gourav (sentiment analysis with dist. rep.)
 2. Sonali+Rohit (review categorization content retrieval)
 3. Aditya (information outbreak in networks)
 4. Sarthak (time series prediction and forecasting)
 
+Dist. repr. from words to sentences:
+a. Baroni, M. (2013). Composition in distributional semantics. Language and Linguistics Compass, 7:511-522.
+
+b. Baroni, M., Bernardi, R., and Zamparelli, R. (2014). Frege in space: A program for compositional distributional semantics. Linguistic Issues in Language Technology, 9.
+
+c. Coecke, B., Sadrzadeh, M., and Clark, S. (2011). Mathematical foundations for a compositional distributional model of meaning. Linguistic Analysis: A Festschrift for Joachim Lambek, 36(1-4):345-384.
+
+1. Erk, K. (2013). Towards a semantics for distributional representations. In Proceedings of the Tenth International Conference on Computational Semantics (IWCS2013).
+
+2. Garrette, D., Erk, K., and Mooney, R. (2014). A formal approach to linking logical form and vector-space lexical semantics. In Bunt, H., Bos, J., and Pulman, S., editors. Text, Speech and Language Technology: Computing Meaning, 47:27-48. Springer.
+
+3. Lewis, M. and Steedman, M. (2013). Combined Distributional and Logical Semantics. Transactions of the Association for Computational Linguistics 1:179-192.
+
+4. Turney, P. D. and Pantel, P. (2010). From frequency to meaning: Vector space models of semantics. Journal of Artificial Intelligence Research, 37:141-188.
+
+Unsupervised methods for clustering of training data (finite/infinite):
+[Mixture models/K-means with varying K in batch case]
+[Topic models/Dictionary learning/Matrix factorization]
+[Chinese restaurant/Indian buffet]
+
+Posterior regularization +
+human in the loop correction +
+active learning-
+to correct for categories, representation or weights linking them.
+
+Applications to:
+Sentiment capturing with dist. repr.
+Review/email categorization
+Trends and outbreaks in streams
+Textual effects of forecasting
+
+Data sources:
+Wikipedia, twitter, newsgroups, semeval tasks
+
+http://alt.qcri.org/semeval2015/task12/ 
+http://alt.qcri.org/semeval2014/task4/
+
+http://alt.qcri.org/semeval2014/task7/
+http://www.alta.asn.au/events/sharedtask2014/description.html
+http://alt.qcri.org/semeval2015/task13/
+
 2nd years:
-Data analysis people
-Web design and application people
+
+Data analysis people (kaggle): Himadri, Vishal, Ribhav
+Web design people (infographics and visualization): Sonu, Shivam
+Seminar announcement?: Parth, Siddarth
 
 Computerization project:
 Get code (feedback+blog/movie review)-
