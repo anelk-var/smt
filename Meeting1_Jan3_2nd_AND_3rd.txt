@@ -1,4 +1,5 @@
-3-Jan
+Meeting of 3-Jan
+-------------------
 2nd years.
 Explore dataset and scikit-clusterig,regression and classification (Wednesday)
 1. Vishal Agarwal
